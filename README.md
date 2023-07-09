@@ -5,11 +5,11 @@
 <h2>对于多年接触电脑的我来说，我在敲代码这一方面会有一种着迷的心态，如果你通过下列的联系方式找到我，我将会不胜感激。</h2>
 我觉得还是社交软件能够更有效率地进行交流，你觉得呢？
 <p></p>
-<a href="https://twitter.com/LM_19587" title="这是我的推特账户！🙃" >Twitter</a>
+<a href="https://twitter.com/LM_19587" title="这是我的推特账户！🙃">Twitter</a>
 <a href ="https://line.me/ti/p/nRBW-pyeOw"  title="这是我的Line账户！😬">Line</a>
 <a href="https://discord.gg/JF4yawyqVa"  title="这是我的Discord账户！🤓">Discord</a>
 <a href="https://t.me/LingMoE"  title="这是我的Telegram账户！😲">Telegram</a>
 <div>
   <img src="/photo_2023-07-10_02-57-58.jpg" style= "height:300px;max-width:100%;" title="微信也露个面吧。">
 <img src="/2.jpg" style="height:300px; width:460px" title="原来你也是憨涩粉" >
-</div>
+  
