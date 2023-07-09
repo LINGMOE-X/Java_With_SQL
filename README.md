@@ -9,4 +9,7 @@
 <a href ="https://line.me/ti/p/nRBW-pyeOw"  title="这是我的Line账户！😬">Line</a>
 <a href="https://discord.gg/JF4yawyqVa"  title="这是我的Discord账户！🤓">Discord</a>
 <a href="https://t.me/LingMoE"  title="这是我的Telegram账户！😲">Telegram</a>
-<img src="/photo_2023-07-10_02-57-58.jpg" style= "height:300px;max-width:100%;" title="微信也露个面吧。">
+<div>
+  <img src="/photo_2023-07-10_02-57-58.jpg" style= "height:300px;max-width:100%;" title="微信也露个面吧。">
+<img src="/2.jpg" style="height:300px; width:460px" >
+</div>
