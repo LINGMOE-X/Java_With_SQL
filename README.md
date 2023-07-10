@@ -15,7 +15,7 @@
 <a href="https://zh.moegirl.org.cn/Hanser" target="_blank">
   <img src="/2.jpg" style="height:300px; width:500px" title="原来你也是憨涩粉" alt="不得不说憨涩的声音很傲娇的感觉。" />
 </a> 
-<p>这个是可选的联系方式↓</p>
+<p>这个是可选的联系方式 ↓</p>
 <details>
     <summary>Contact method (Alternative)</summary>
   
@@ -23,7 +23,12 @@
   <li>
    Email:
   </li>
-  LingMoE_x@outlook.com
+    <address>
+      <a href="mailto:LingMoE_x@outlook.com">
+        LingMoE_x@outlook.com
+      </a>
+      </address>
+ 
   <ul>
 
 </details>
@@ -39,3 +44,6 @@
 </pre>
 <h2 align="right"><em>——凌陌-LingMoE</em></h2> 
   </div>
+  <footer>
+ © 2023 LingMoE 
+  </footer>
