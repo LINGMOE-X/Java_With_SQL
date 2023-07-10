@@ -12,7 +12,7 @@
 <a href="https://t.me/LingMoE"  title="这是我的Telegram账户！😲">Telegram</a>
 <div>
   <img src="/photo_2023-07-10_02-57-58.jpg" style= "height:300px;max-width:100%;" title="微信也露个面吧。" alt="这是微信的联系方式" >
-<a href="https://zh.moegirl.org.cn/Hanser">
+<a href="https://zh.moegirl.org.cn/Hanser" target="_blank">
   <img src="/2.jpg" style="height:300px; width:460px" title="原来你也是憨涩粉" alt="不得不说憨涩的声音很傲娇的感觉。" />
 </a> 
 
